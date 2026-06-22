@@ -1,3 +1,5 @@
+# This poject is archived. New version is currently under development.
+
 # school_utility_tools
 
 ## Project setup
